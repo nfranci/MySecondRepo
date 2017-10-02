@@ -1,0 +1,12 @@
+Created a folder in windows.
+Git bash : git init
+
+Added a file in windows
+
+Git Bash : git add .
+
+git commit -m "message"
+ \\ commited to the local master
+git 
+remote add origin https://github.com/nfranci/MySecondRepo.git \\git does not know of a remote repo yet. So adding the remote origin
+git push -u origin master \\ -u is telling git to remember these options. 
