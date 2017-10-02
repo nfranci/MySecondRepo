@@ -10,4 +10,4 @@ git push origin master | since the origin was not specified this creatd a new or
 git remote add  https://github.com/nfranci/MySecondRepo.git | this failed becoz of last step.
 
 git remote set-url origin https://github.com/nfranci/MySecondRepo.git | this pointed the remote url to mySecondRepo
-git push -u origin master | pushed the changes to origin
+git push -u origin master | pushed the changes to myNewBranch as separate branch in origin
