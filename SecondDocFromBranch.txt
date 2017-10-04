@@ -13,3 +13,5 @@ git remote set-url origin https://github.com/nfranci/MySecondRepo.git | this poi
 git push -u origin master | pushed the changes to myNewBranch as separate branch in origin
 
 adding a new line to the doc. making anoother change now.
+
+Make a change from newBranch
