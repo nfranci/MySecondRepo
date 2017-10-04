@@ -12,4 +12,4 @@ git remote add  https://github.com/nfranci/MySecondRepo.git | this failed becoz 
 git remote set-url origin https://github.com/nfranci/MySecondRepo.git | this pointed the remote url to mySecondRepo
 git push -u origin master | pushed the changes to myNewBranch as separate branch in origin
 
-adding a new line to the doc.
+adding a new line to the doc. making anoother change now.
