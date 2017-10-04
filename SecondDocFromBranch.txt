@@ -14,4 +14,8 @@ git push -u origin master | pushed the changes to myNewBranch as separate branch
 
 adding a new line to the doc. making anoother change now.
 
+
+changes from old branch
+
 Make a change from newBranch
+
